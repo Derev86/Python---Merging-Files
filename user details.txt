@@ -1,0 +1,10 @@
+ID,Job Title,Salary
+1001,Teacher,$20000
+1005,Engineer,$52000
+1003,Technician,$15000
+1012,Manager,$35000
+
+1009,Salesman,$24000
+1006,Accountant,$45000
+1010,Clerk,$12000
+1011,Developer,$42000
